@@ -25,6 +25,7 @@ Off-screen, I'm all about art, gym, and video games!<br/>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # :bar_chart: GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NajimAlfutini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NajimAlfutini&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=WaleedSalehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WaleedSaleh&theme=dark&hide_border=false)<br/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
